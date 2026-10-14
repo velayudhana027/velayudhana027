@@ -1,4 +1,4 @@
-# 💫 About Me:
+#
 I'm Velayudhan Aravindakshan 👋<br><br>Robotics enthusiast with a passion for humanoid robots: how they see, move, and work alongside people.<br><br>-  Manipulation on the **Unitree G1** humanoid<br>-  Human-robot interaction with **NAO** and the **Franka Emika Panda** arm<br>-  Robot vision: point feature extraction research and matrix-barcode-based **autonomous UAV landing**<br>- Right now working with tactile sensing for making artificial skin
 
 
